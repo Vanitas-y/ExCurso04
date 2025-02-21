@@ -16,6 +16,8 @@ public class Main {
         System.out.println("Number = " + num);
         System.out.printf("Salary = %.2f\n", sal);
 
+        sc.close();
+
 //
 //        System.out.println("Numero do funcionario: " );
 //        int numFunc = sc.nextInt();
